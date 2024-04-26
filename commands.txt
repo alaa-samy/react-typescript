@@ -1,0 +1,2 @@
+vite-plugin-svgr   ---> For enabling using svg as component in vite
+vite-tsconfig-paths   ---> Give vite the ability to resolve imports using TypeScript's path mapping
